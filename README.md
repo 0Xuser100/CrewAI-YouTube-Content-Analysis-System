@@ -90,6 +90,10 @@ Customize tasks in `tasks.py`:
 - Adjust expected outputs
 - Configure tool assignments
 - Set execution parameters
+## 🧑‍💻 Author
+Mahmoud Abdelhamid  
+Cairo, Egypt  
+[LinkedIn](https://www.linkedin.com/in/mahmoud-abdelhamid) | [GitHub](https://github.com/mahmoud-abdelhamid)
 
 ## 🤝 Contributing
 
